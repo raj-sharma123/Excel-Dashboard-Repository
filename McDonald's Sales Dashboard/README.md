@@ -1,5 +1,18 @@
 # 📄 McDonald's 2025 Sales Performance Report
-![image](https://github.com/user-attachments/assets/f1a68851-41db-4ee0-8b15-e1bab67d103a)
+![image](https://github.com/user-attachments/assets/bdcd1547-a280-4a96-92f1-da791c85f134)
+
+## About Datasets:
+* **Domain:** Sales
+* **Project:** McDonald's Sales Report
+* **Dataset Type:** Excel Data
+
+## KPI's:
+* Sales
+* Profit
+* Customers
+* Customer Satisfaction
+* Sales by Country 2022
+* 2021-2022 Sales Trend
 
 ## Executive Summary
 The overall business performance is strong, with **Sales achieving 85%** of the target, **Profit achieving 89%**, and **Customers reaching 87%** of the target. Continued focus is required to meet year-end goals.
